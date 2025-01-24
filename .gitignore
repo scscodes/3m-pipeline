@@ -176,4 +176,4 @@ cython_debug/
 /.idea/
 /standalone-notebooks.iml
 /data/
-!/.idea/
+!/.idea/*
